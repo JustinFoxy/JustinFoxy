@@ -41,6 +41,6 @@
 
 ### 📫 Contact
 - GitHub: **@JustinFoxy**
-- Email: _(coming soon)_
+- Email: JustinFoxy0701@gmail.com
 
 > Driven by curiosity. Focused on mastery. Ready for next level. 🚀
