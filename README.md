@@ -11,7 +11,7 @@
 ### 🚀 Featured Projects (Coming Soon)
 | Project | Tech Stack | Status |
 |--------|------------|--------|
-| Campus Lost & Found System | Java Swing + MySQL | ✅ Completed |
+| Campus Library Manager System | Java Swing + MySQL | ✅ Completed |
 | Student Course Selection System | JSP + MySQL | ✅ Completed |
 | Android Book Manager | Android + SQLite | ✅ Completed |
 | STM32 Temp & Humidity Monitor | STM32 + C + OLED | 🔧 In Progress |
@@ -26,8 +26,8 @@
 - **Backend:** JSP/Servlet, Spring Boot (learning)
 - **Mobile:** Android (Java + SQLite)
 - **Embedded:** STM32 (HAL)
-- **Database:** MySQL, SQLite
-- **Tools:** IntelliJ IDEA, VS Code, Git & GitHub, Keil, Navicat
+- **Database:** MySQL, SQLite, SQLServer
+- **Tools:** IntelliJ IDEA, VS Code, Git & GitHub, Keil5, Navicat
 
 ---
 
