@@ -27,7 +27,7 @@ I love building practical systems that actually work in real life.
 ## 🛠 Tech Skills / 技术能力
 
 - **Languages / 语言：** Java · C · SQL · Python (basic)  
-- **Backend / 后端：** Spring Boot · JSP/Servlet · MyBatis-Plus  
+- **Backend / 后端：** Spring Boot · MyBatis-Plus · JSP/Servlet
 - **Frontend / 前端：** Vue3 · Vite · Axios  
 - **Mobile / 移动端：** Android (Java + SQLite)  
 - **Embedded / 嵌入式：** STM32（HAL 驱动、OLED 显示、传感器采集）  
