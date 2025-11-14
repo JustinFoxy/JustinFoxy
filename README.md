@@ -47,7 +47,7 @@ I love building practical systems that actually work in real life.
 
 ## 📫 Contact / 联系方式
 
-- GitHub: **@JustinFoxy**
+- GitHub: **[@JustinFoxy](https://github.com/JustinFoxy)**
 - Email: **JustinFoxy0701@gmail.com**
 
 > Driven by curiosity. Focused on mastery.  
