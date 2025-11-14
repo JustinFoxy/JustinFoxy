@@ -16,7 +16,7 @@ I love building practical systems that actually work in real life.
 | ----------------------------- | ----------------------------------- | ------ |
 | Campus Library Manager System | Java Swing + MySQL                  | ✅ 完成 |
 | Android Book Manager          | Android (Java + SQLite)             | ✅ 完成 |
-| Personal ToDo List System     | Vue3 + Spring Boot + MyBatis-Plus   | ✅ 完成 |
+| Full-Stack ToDo List System   | Vue3 + Vite + Axios + Spring Boot + MyBatis-Plus   | ✅ 完成 |
 | STM32 Temp & Humidity Monitor | STM32 + HAL + OLED                  | 🔧 开发中 |
 
 > Turning course assignments into real full-stack engineering.  
