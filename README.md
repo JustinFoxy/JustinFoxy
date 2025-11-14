@@ -8,7 +8,7 @@
 I love building practical systems that actually work in real life.  
 我喜欢做 **真的能跑起来的项目**，而不仅仅是完成作业。
 
----
+
 
 ## 🚀 Featured Projects / 代表项目
 
@@ -22,7 +22,7 @@ I love building practical systems that actually work in real life.
 > Turning course assignments into real full-stack engineering.  
 > 把课程作业升级成真正的全栈工程项目。🔥
 
----
+
 
 ## 🛠 Tech Skills / 技术能力
 
@@ -34,7 +34,7 @@ I love building practical systems that actually work in real life.
 - **Database / 数据库：** MySQL · SQLite · SQL Server  
 - **Tools / 工具：** IntelliJ IDEA · VS Code · Git & GitHub · Keil5 · Navicat · Swagger UI
 
----
+
 
 ## 🎯 Currently Learning / 正在学习
 
@@ -43,7 +43,7 @@ I love building practical systems that actually work in real life.
 - Linux & 服务器部署  
 - STM32 外设驱动 & RTOS 基础
 
----
+
 
 ## 📫 Contact / 联系方式
 
