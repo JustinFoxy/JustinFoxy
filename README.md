@@ -1,69 +1,52 @@
-JustinFoxy | CS Student & Developer
+# **Hi, I’m JustinFoxy 👋**
 
-Hi, I’m Justin, a Computer Science undergraduate from Shanghai.
-I love building real, usable software—from Java full-stack to Android apps to embedded systems.
-Turning every school project into engineering practice is my goal. 🚀
+🎓 CS Undergraduate (Shanghai, China)
 
-⸻
+💻 Java • JSP • Spring Boot • MySQL
 
-🌟 Featured Projects
+📱 Android (Java + SQLite)
 
-Project	Tech Stack	Status
-Campus Library Manager System	Java Swing • MySQL	🟢 Completed
-Student Course Selection System	JSP/Servlet • MySQL	🟢 Completed
-Android Book Manager	Android • SQLite	🟢 Completed
-STM32 Temp & Humidity Monitor	STM32 • HAL • OLED	🟡 In Progress
-Personal ToDo List (Full Stack)	Vue 3 • Spring Boot • MyBatis-Plus	🟡 Building
+🔧 STM32 embedded developer
 
-🚧 Always building, always learning.
+🌟 I love building practical systems that actually work in real life
 
-⸻
 
-🛠 Tech Stack
 
-💻 Languages
-	•	Java • C • SQL • Python (basic)
+### **🚀 Featured Projects (Coming Soon)**
 
-🔙 Backend
-	•	JSP/Servlet
-	•	Spring Boot (MyBatis-Plus / RESTful API)
+| **Project**                     | **Tech Stack**                    | **Status**    |
+| ------------------------------- | --------------------------------- | ------------- |
+| Campus Library Manager System   | Java Swing + MySQL                | ✅ Completed   |
+| Student Course Selection System | JSP + MySQL                       | ✅ Completed   |
+| Android Book Manager            | Android + SQLite                  | ✅ Completed   |
+| STM32 Temp & Humidity Monitor   | STM32 + HAL + OLED                | 🔧 In Progress |
+| Personal ToDo List System       | Vue3 + Spring Boot + MyBatis-Plus | 🔧 Building    |
 
-📱 Mobile
-	•	Android (Java + SQLite)
+> Turning coursework into real engineering practice 🔥
 
-⚙ Embedded
-	•	STM32 (HAL drivers / OLED / DHT11)
+### **🛠 Tech Skills**
 
-🗄 Databases
-	•	MySQL • SQLite • SQLServer
+- **Languages:** Java, C, SQL, Python (basic)
+- **Backend:** JSP/Servlet, Spring Boot (learning), MyBatis-Plus
+- **Mobile:** Android (Java + SQLite)
+- **Embedded:** STM32 (HAL drivers, OLED screen, sensor reading)
+- **Database:** MySQL, SQLite, SQLServer
+- **Tools:** IntelliJ IDEA, VS Code, Git & GitHub, Keil5, Navicat, Swagger UI
 
-🧰 Tools
-	•	IntelliJ IDEA
-	•	VS Code
-	•	Git & GitHub
-	•	Navicat
-	•	Keil5
-	•	Postman / Swagger UI
 
-⸻
 
-🎯 Currently Learning
-	•	Spring Boot + MyBatis-Plus (full stack project)
-	•	Server deployment & Linux basics
-	•	STM32 peripheral programming (I2C / SPI / interrupts)
+### **🎯 Currently Learning**
 
-⸻
+- Spring Boot full-stack development
+- Vue3 + Axios front-end integration
+- Linux & server deployment
+- STM32 peripheral drivers & RTOS basics
 
-📈 Goals for 2025
-	•	Build & deploy a personal project online
-	•	Master Spring Boot + Vue full stack
-	•	Complete STM32 graduation project
-	•	Improve English & Japanese communication
 
-⸻
 
-📫 Contact Me
-	•	GitHub: @JustinFoxy￼
-	•	Email: JustinFoxy0701@gmail.com
+### **📫 Contact**
 
-Driven by curiosity. Focused on mastery. Ready for the next level. 🚀
+- GitHub: **@JustinFoxy**
+- Email: **JustinFoxy0701@gmail.com**
+
+> Driven by curiosity. Focused on mastery. Ready for next level. 🚀
