@@ -2,7 +2,7 @@
 
 🎓 CS Undergraduate (Shanghai, China)
 
-💻 Java • JSP • Spring Boot • MySQL
+💻 Java • Vue3 • Spring Boot • MySQL
 
 📱 Android (Java + SQLite)
 
