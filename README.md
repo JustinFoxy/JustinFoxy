@@ -17,7 +17,6 @@
 | **Project**                     | **Tech Stack**                    | **Status**    |
 | ------------------------------- | --------------------------------- | ------------- |
 | Campus Library Manager System   | Java Swing + MySQL                | ✅ Completed   |
-| Student Course Selection System | JSP + MySQL                       | ✅ Completed   |
 | Android Book Manager            | Android + SQLite                  | ✅ Completed   |
 | Personal ToDo List System       | Vue3 + Spring Boot + MyBatis-Plus | ✅ Completed   |
 | STM32 Temp & Humidity Monitor   | STM32 + HAL + OLED                | 🔧 In Progress |
