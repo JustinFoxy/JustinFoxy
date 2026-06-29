@@ -19,7 +19,7 @@ I enjoy building **real systems that actually run in real-world scenarios**, not
 
 ---
 
-## 🚀 Latest Project / 最近项目（重点）
+## 🚀 Latest Project / 最近项目
 
 ### 📦 Asset QR Inventory System / 资产扫码管理系统
 
