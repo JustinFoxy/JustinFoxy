@@ -1,54 +1,98 @@
 # Hi, I’m JustinFoxy 👋 / 你好，我是 JustinFoxy
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Engineer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Region-Shanghai%2C%20China-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Level-Student%20Developer-green?style=flat-square"/>
+</p>
+
+---
+
+## 🎓 About Me / 关于我
+
 🎓 CS Undergraduate · Shanghai, China  
-💻 Java · Vue3 · Spring Boot · MySQL  
-📱 Android (Java + SQLite)  
-🔧 STM32 Embedded Developer (HAL / OLED / Sensors)
+💻 Focus on Fullstack Development & Embedded Systems  
 
-I love building practical systems that actually work in real life.  
-我喜欢做 **真的能跑起来的项目**，而不仅仅是完成作业。
+I enjoy building **real systems that actually run in production-like environments**, not just coursework demos.
 
+我喜欢做的不是“作业项目”，而是**能真正运行、能解决问题的系统**。
 
+---
+
+## 💡 What I Do / 我在做什么
+
+- 🌐 Building full-stack web applications (Vue + Spring Boot)
+- 📱 Developing Android apps (Java + SQLite)
+- 🔧 Working with embedded systems (STM32 + HAL)
+- 🗄 Designing database-driven systems (MySQL / SQL Server)
+- 🚀 Learning deployment & DevOps basics (Linux + Server)
+
+---
 
 ## 🚀 Featured Projects / 代表项目
 
-| Project 项目                  | Tech Stack 技术栈                  | Status |
-| ----------------------------- | ----------------------------------- | ------ |
-| Campus Library Manager System | Java Swing + MySQL                  | ✅ 完成 |
-| Android Book Manager          | Android (Java + SQLite)             | ✅ 完成 |
-| ToDo List System              | Frontend（Vue3 + Vite + Axios）+ Backend（Spring Boot + MyBatis-Plus）   | ✅ 完成 |
-| STM32 Temp & Humidity Monitor | STM32 + HAL + OLED                  | 🔧 开发中 |
+| Project 项目 | Tech Stack 技术栈 | Status |
+|--------------|------------------|--------|
+| 📚 Campus Library Manager System | Java Swing + MySQL + JDBC | ✅ Completed |
+| 📱 Android Book Manager | Android (Java + SQLite) | ✅ Completed |
+| 📝 ToDo Full-Stack System | Vue3 + Vite + Axios + Spring Boot + MyBatis-Plus | ✅ Completed |
+| 🌡 STM32 Environmental Monitor | STM32 + HAL + OLED + Sensors | 🔧 In Progress |
 
-> Turning course assignments into real full-stack engineering.  
-> 把课程作业升级成真正的全栈工程项目。🔥
+> 🔥 Turning coursework into real engineering projects with full-stack thinking.
 
+---
 
+## 🛠 Tech Stack / 技术栈
 
-## 🛠 Tech Skills / 技术能力
+**Languages**
+- Java · C · SQL · Python (basic)
 
-- **Languages / 语言：** Java · C · SQL · Python (basic)  
-- **Backend / 后端：** Spring Boot · MyBatis-Plus · JSP/Servlet
-- **Frontend / 前端：** Vue3 · Vite · Axios  
-- **Mobile / 移动端：** Android (Java + SQLite)  
-- **Embedded / 嵌入式：** STM32（HAL 驱动、OLED 显示、传感器采集）  
-- **Database / 数据库：** MySQL · SQLite · SQL Server  
-- **Tools / 工具：** IntelliJ IDEA · VS Code · Git & GitHub · Keil5 · Navicat · Swagger UI
+**Frontend**
+- Vue3 · Vite · Axios
 
+**Backend**
+- Spring Boot · MyBatis-Plus · REST API
 
+**Mobile**
+- Android (Java + SQLite)
 
-## 🎯 Currently Learning / 正在学习
+**Embedded**
+- STM32 (HAL · OLED · Sensors · UART)
 
-- Spring Boot 全栈开发，RESTful API 设计  
-- Vue3 + Axios 前后端联调  
-- Linux & 服务器部署  
-- STM32 外设驱动 & RTOS 基础
+**Database**
+- MySQL · SQLite · SQL Server
 
+**Tools**
+- Git & GitHub · IntelliJ IDEA · VS Code · Navicat · Keil5 · Swagger
 
+---
+
+## 📈 Currently Learning / 正在学习
+
+- 🚀 Spring Boot advanced architecture (Auth / Middleware / Security)
+- 🌐 Vue3 ecosystem & frontend engineering
+- 🐧 Linux server deployment & Nginx basics
+- ⚙ STM32 RTOS & driver abstraction design
+
+---
+
+## 🎯 Philosophy / 个人理念
+
+> “I don’t just write code — I build systems that solve problems.”
+
+> “我不是在写代码，我是在构建解决问题的系统。”
+
+---
 
 ## 📫 Contact / 联系方式
 
-- GitHub: **[@JustinFoxy](https://github.com/JustinFoxy)**
-- Email: **JustinFoxy0701@gmail.com**
+- GitHub: [@JustinFoxy](https://github.com/JustinFoxy)
+- Email: JustinFoxy0701@gmail.com
 
-> Driven by curiosity. Focused on mastery.  
-> 由好奇心驱动，向真正的精通前进。🚀
+---
+
+## 🚀 Motto
+
+> Driven by curiosity. Built through practice. Improved through iteration.
+
+> 由好奇心驱动，在实践中构建，在迭代中成长。
